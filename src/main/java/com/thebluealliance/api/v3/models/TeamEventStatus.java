@@ -5,6 +5,7 @@ import lombok.Value;
 /**
  * Represents a team's status during an event
  */
+@Value
 public class TeamEventStatus {
 
 	/**
